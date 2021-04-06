@@ -36,3 +36,9 @@ your screen
 import pyautogui as p 
 
 p.mouseInfo()
+
+print("Sleeping for 2 seconds")
+time.sleep(2)
+p.click(729.44)
+
+
